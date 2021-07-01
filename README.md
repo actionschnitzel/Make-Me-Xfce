@@ -26,7 +26,7 @@
     
 ## :pencil2:Wifi-FIX
     
->sudo apt install network-manager-gnome # for some reason Wifi isn't working with the standart manager
+>sudo apt install network-manager-gnome # for some reason Wifi isn't working with the standard manager
     
 >sudo systemctl disable dhcpcd
     
@@ -36,6 +36,8 @@
     
     
 ## :pencil2:Purge-PIXEL
+    
+    #Attention! these lines remove all Raspi standard desktop components. You don't need to execute 'em.
     
 >sudo apt remove lxde* --purge -y
     
