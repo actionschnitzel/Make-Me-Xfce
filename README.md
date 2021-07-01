@@ -1,4 +1,4 @@
-# :goberserk:/// Make-Me-Xfce /// 4 RaspberryPi OS ///:goberserk:
+# :goberserk:/// Make-Me-Xfce /// For RaspberryPi OS ///:goberserk:
     
     
 ![GUI](https://github.com/actionschnitzel/tingsandstuff/blob/main/github-xfce.png)
