@@ -3,13 +3,28 @@
     
 ![GUI](https://github.com/actionschnitzel/tingsandstuff/blob/main/github-xfce.png)
 
-# :pencil2: Suggestion
+# :goberserk: PiGro Method
     
 If you don't wanna walk throu the terminal jungle use the "LOOK-TAB" in PiGro
 >https://github.com/actionschnitzel/PiGro-Aid-    
     
+1.In Look click Tasksel
+> select Xfce > press "Tab" > press "ENTER"
+    
+2.In Look click Change Desktop
+> select "Nr." of "/usr/bin/startxfce4" > press "ENTER"
+    
+3.In Look click Change Win-Manager
+> select "Nr." of "/usr/bin/xfwm4" > press "ENTER"
+    
+3.In Look click Wifi-Fix
+
+Done! > REBOOT double DONE!
+
 Xfce themes
 >https://www.xfce-look.org/browse/    
+    
+# :goberserk: Terminal Method
     
 ## :pencil2:Prepaire for Xfce4
 
