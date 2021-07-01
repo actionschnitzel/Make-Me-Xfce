@@ -3,6 +3,13 @@
     
 ![GUI](https://github.com/actionschnitzel/tingsandstuff/blob/main/github-xfce.png)
 
+# :pencil2: Suggestion
+    
+If you don't wanna walk throu the terminal jungle use the "LOOK-TAB" in PiGro
+>https://github.com/actionschnitzel/PiGro-Aid-    
+    
+Xfce themes
+>https://www.xfce-look.org/browse/    
     
 ## :pencil2:Prepaire for Xfce4
 
