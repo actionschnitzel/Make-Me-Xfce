@@ -1,6 +1,9 @@
 # :goberserk:/// Make-Me-Xfce /// 4 RaspberryPi OS ///:goberserk:
     
     
+![GUI](https://github.com/actionschnitzel/tingsandstuff/blob/main/github-xfce.png)
+
+    
 ## :pencil2:Prepaire for Xfce4
 
 >sudo apt-get update -y
