@@ -87,4 +87,4 @@ sudo reboot
     
 #DONE!
 ```
-## Bonus: Dont't forget Wiskermenu ;-)
+## Bonus: Don't forget Wiskermenu ;-)
